@@ -10,3 +10,21 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+.project
+
+.classpath
+
+*.prefs
+
+*.component
+
+*.container
+
+.settings/org.eclipse.wst.common.project.facet.core.xml
+
+.settings/org.eclipse.wst.jsdt.ui.superType.name
+
+.settings/.jsdtscope
+
+target/m2e-wtp/web-resources/META-INF/MANIFEST.MF
